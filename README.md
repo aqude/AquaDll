@@ -1,3 +1,5 @@
+[![header](https://github.com/AquaDll/AquaDll/blob/main/assets/header.jpg.png)](https://vk.com/d3c0dik)
+
 ## Hi there, I'm FullStack Web Dgit eveloper and student 👋
 
 ### ⚡BIO⚡
