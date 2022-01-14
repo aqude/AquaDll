@@ -12,6 +12,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript) 
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python) 
 ![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=Java&logoColor=FF9933)
+![Golang](https://img.shields.io/badge/-Golang-090909?style=for-the-badge&logo=go)
 
 ### My DB:
 ![sql](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=mysql&logoColor=00648B) ![mongoDB](https://img.shields.io/badge/-mongobd-090909?style=for-the-badge&logo=MongoDB&logoColor=#7CFC00)
