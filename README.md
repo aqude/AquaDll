@@ -13,7 +13,3 @@
 ![Dart](https://img.shields.io/badge/-Dart-090909?style=for-the-badge&logo=Dart&logoColor=30D5C8)
 ### My DB:
 ![sql](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=mysql&logoColor=00648B) ![mongoDB](https://img.shields.io/badge/-mongobd-090909?style=for-the-badge&logo=MongoDB&logoColor=#7CFC00)
-
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AquaDll&show_icons=true&theme=&show_icons=true"/>
-</a>
