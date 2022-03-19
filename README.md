@@ -9,3 +9,5 @@
 ![Dart](https://img.shields.io/badge/-Dart-090909?style=for-the-badge&logo=Dart&logoColor=30D5C8)
 ![Scala](https://img.shields.io/badge/-Scala-090909?style=for-the-badge&logo=Scala&logoColor=ff0000)
 ![php](https://img.shields.io/badge/-php-090909?style=for-the-badge&logo=php)
+
+![Gogogo](https://github.com/AquaDll/AquaDll/blob/main/assets/gopher.gif)
